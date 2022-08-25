@@ -17,3 +17,5 @@ C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoPr
 C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Persistence\obj\Debug\net6.0\refint\rentACar.Persistence.dll
 C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Persistence\obj\Debug\net6.0\rentACar.Persistence.pdb
 C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Persistence\obj\Debug\net6.0\ref\rentACar.Persistence.dll
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Persistence\bin\Debug\net6.0\Core.CrossCuttingConcers.dll
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Persistence\bin\Debug\net6.0\Core.CrossCuttingConcers.pdb
