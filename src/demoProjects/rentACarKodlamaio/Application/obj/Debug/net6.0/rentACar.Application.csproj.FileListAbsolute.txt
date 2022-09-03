@@ -1,0 +1,42 @@
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\rentACar.Application.deps.json
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\rentACar.Application.dll
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\rentACar.Application.pdb
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\Core.Persistence.dll
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\rentACar.Domain.dll
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\rentACar.Domain.pdb
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\Core.Persistence.pdb
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\rentACar.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\rentACar.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\rentACar.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\rentACar.Application.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\rentACar.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\rentACar.Application.csproj.CopyComplete
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\rentACar.Application.dll
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\refint\rentACar.Application.dll
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\rentACar.Application.pdb
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\ref\rentACar.Application.dll
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\Core.CrossCuttingConcers.dll
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\Core.CrossCuttingConcers.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\rentACar.Application.deps.json
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\rentACar.Application.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\rentACar.Application.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\Core.Application.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\Core.CrossCuttingConcers.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\Core.Persistence.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\Core.Security.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\rentACar.Domain.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\Core.Application.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\Core.CrossCuttingConcers.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\rentACar.Domain.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\Core.Persistence.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\bin\Debug\net6.0\Core.Security.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\rentACar.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\rentACar.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\rentACar.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\rentACar.Application.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\rentACar.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\rentACar.Application.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\rentACar.Application.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\refint\rentACar.Application.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\rentACar.Application.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\Application\Application\obj\Debug\net6.0\ref\rentACar.Application.dll

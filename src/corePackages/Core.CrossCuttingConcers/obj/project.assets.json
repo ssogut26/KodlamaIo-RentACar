@@ -4205,11 +4205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj",
       "projectName": "Core.CrossCuttingConcers",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

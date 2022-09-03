@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tOIwce/6D1f9kPagm6g19ZzrwMWFBvupiAgfnJGSfL36z+HRRwcSI7X2g8lMdOdpsGhBYoWlzZ/Fk3RmTlA3Bg==",
+  "dgSpecHash": "sj28NwMri0KNM+bRfoh1sc1ERg3VJut/ggQ9CIqa2jS0OVa7Ik1Vct/xAvM8EKhMcb8y2ymTXbJjWK8kP9YAZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\mailkit\\3.1.1\\mailkit.3.1.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

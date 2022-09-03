@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LXlydeQW7ygg/ep1tkN7W9CGrnonYIsl45NN2gz0z8D5OCmK+2Mcxk7LXD9KpIapOeo/qBHXS0+7KU9AiI5LKw==",
+  "dgSpecHash": "aNb9Rxpu8Cakcaa6/cJM5XNHm0NEUPiivo3vQdsUfr3hkWQ3QcQ1xEQOjNxv6WN07TDzFlFzsYjuORNtPwPrzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

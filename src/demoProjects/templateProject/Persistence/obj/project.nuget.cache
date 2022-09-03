@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AVgvcDh2nJ1uASBsb9mw4k53Uxxp2tdfLOq7IZesgcysYmefDjnbU5fmXPjB9J7KyER5a7UT5km2MNYCRHI3tQ==",
+  "dgSpecHash": "si7XdRZEVuIE85VxXExeKtRcOdXBXoHPubDKj/2jFHCZE+fhNwr2zdNmRjDhTE3wRg76j1FK+y1CNyZMNUNwsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
