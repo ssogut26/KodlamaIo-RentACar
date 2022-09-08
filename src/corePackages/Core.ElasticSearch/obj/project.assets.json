@@ -493,19 +493,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Selcuk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
+      "projectUniqueName": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
       "projectName": "Core.ElasticSearch",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.ElasticSearch\\obj\\",
+      "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
+      "packagesPath": "C:\\Users\\Selcuk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.ElasticSearch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Selcuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

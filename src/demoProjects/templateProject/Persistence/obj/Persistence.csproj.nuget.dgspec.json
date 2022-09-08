@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Persistence\\Persistence.csproj": {}
+    "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
+    "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Application\\Core.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Application\\Core.Application.csproj",
         "projectName": "Core.Application",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Application\\Core.Application.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Application\\obj\\",
+        "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Application\\Core.Application.csproj",
+        "packagesPath": "C:\\Users\\Selcuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Selcuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj"
+              "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj": {
+                "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj"
               },
-              "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Security\\Core.Security.csproj"
+              "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+                "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Security\\Core.Security.csproj"
               }
             }
           }
@@ -88,17 +88,17 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj": {
+    "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj",
+        "projectUniqueName": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj",
         "projectName": "Core.CrossCuttingConcers",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\obj\\",
+        "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj",
+        "packagesPath": "C:\\Users\\Selcuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.CrossCuttingConcers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Selcuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -165,17 +165,17 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+    "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
         "projectName": "Core.Persistence",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Persistence\\obj\\",
+        "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Selcuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Selcuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -230,17 +230,17 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+    "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+        "projectUniqueName": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Security\\Core.Security.csproj",
         "projectName": "Core.Security",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Security\\Core.Security.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Security\\obj\\",
+        "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+        "packagesPath": "C:\\Users\\Selcuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Security\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Selcuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -254,8 +254,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
+              "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
               }
             }
           }
@@ -311,17 +311,17 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Application\\Application.csproj": {
+    "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Application\\obj\\",
+        "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Selcuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Selcuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -335,11 +335,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Application\\Core.Application.csproj"
+              "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
+                "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Application\\Core.Application.csproj"
               },
-              "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj"
+              "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj"
               }
             }
           }
@@ -383,17 +383,17 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj": {
+    "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Selcuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Selcuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -407,8 +407,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
+              "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
               }
             }
           }
@@ -442,17 +442,17 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Selcuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Selcuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -466,11 +466,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Application\\Application.csproj"
+              "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Application\\Application.csproj"
               },
-              "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj"
+              "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj"
               }
             }
           }
