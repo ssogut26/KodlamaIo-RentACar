@@ -74,3 +74,9 @@ C:\Users\Selcuk\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoP
 C:\Users\Selcuk\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\rentACar.Persistence\obj\Debug\net6.0\refint\rentACar.Persistence.dll
 C:\Users\Selcuk\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\rentACar.Persistence\obj\Debug\net6.0\rentACar.Persistence.pdb
 C:\Users\Selcuk\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\rentACar.Persistence\obj\Debug\net6.0\ref\rentACar.Persistence.dll
+C:\Users\Selcuk\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\rentACar.Persistence\bin\Debug\net6.0\Application.dll
+C:\Users\Selcuk\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\rentACar.Persistence\bin\Debug\net6.0\Domain.dll
+C:\Users\Selcuk\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\rentACar.Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Users\Selcuk\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\rentACar.Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Users\Selcuk\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\rentACar.Persistence\bin\Debug\net6.0\Application.pdb
+C:\Users\Selcuk\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\demoProjects\rentACarKodlamaio\rentACar.Persistence\bin\Debug\net6.0\Domain.pdb

@@ -1,7 +1,7 @@
 
 
 using Core.CrossCuttingConcerns.Exceptions;
-using Persistence;
+using rentACar.Persistence;
 using rentACar.Application;
 
 var builder = WebApplication.CreateBuilder(args);

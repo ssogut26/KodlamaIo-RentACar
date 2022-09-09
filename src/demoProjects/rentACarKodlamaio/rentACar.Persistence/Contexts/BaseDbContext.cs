@@ -1,6 +1,4 @@
-﻿
-using Domain.Entities;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using rentACar.Domain.Entities;
 using System;
@@ -9,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Persistence.Contexts
+namespace rentACar.Persistence.Contexts
 {
     public class BaseDbContext : DbContext
     {

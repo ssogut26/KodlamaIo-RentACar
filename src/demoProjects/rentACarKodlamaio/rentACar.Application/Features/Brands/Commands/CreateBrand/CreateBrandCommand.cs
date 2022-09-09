@@ -1,9 +1,9 @@
 ﻿using Application.Services.Repositories;
 using AutoMapper;
-using Domain.Entities;
 using MediatR;
 using rentACar.Application.Features.Brands.Dtos;
 using rentACar.Application.Features.Brands.Rules;
+using rentACar.Domain.Entities;
 
 namespace rentACar.Application.Features.Brands.Commands.CreateBrand
 {

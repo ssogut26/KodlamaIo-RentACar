@@ -1,9 +1,9 @@
 ﻿using AutoMapper;
 using Core.Persistence.Paging;
-using Domain.Entities;
 using rentACar.Application.Features.Brands.Commands.CreateBrand;
 using rentACar.Application.Features.Brands.Dtos;
 using rentACar.Application.Features.Brands.Models;
+using rentACar.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;

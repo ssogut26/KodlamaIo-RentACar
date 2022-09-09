@@ -1937,6 +1937,22 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0",
+          "Core.Application": "1.0.0",
+          "Domain": "1.0.0",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "10.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Application.dll": {}
+        }
+      },
       "Core.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2003,6 +2019,36 @@
         },
         "runtime": {
           "bin/placeholder/Core.Security.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Core.Persistence": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      },
+      "Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Application": "1.0.0",
+          "Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.1",
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Persistence.dll": {}
         }
       },
       "rentACar.Application/1.0.0": {
@@ -5961,6 +6007,11 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "Application/1.0.0": {
+      "type": "project",
+      "path": "../../templateProject/Application/Application.csproj",
+      "msbuildProject": "../../templateProject/Application/Application.csproj"
+    },
     "Core.Application/1.0.0": {
       "type": "project",
       "path": "../../../corePackages/Core.Application/Core.Application.csproj",
@@ -5981,6 +6032,16 @@
       "path": "../../../corePackages/Core.Security/Core.Security.csproj",
       "msbuildProject": "../../../corePackages/Core.Security/Core.Security.csproj"
     },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../../templateProject/Domain/Domain.csproj",
+      "msbuildProject": "../../templateProject/Domain/Domain.csproj"
+    },
+    "Persistence/1.0.0": {
+      "type": "project",
+      "path": "../../templateProject/Persistence/Persistence.csproj",
+      "msbuildProject": "../../templateProject/Persistence/Persistence.csproj"
+    },
     "rentACar.Application/1.0.0": {
       "type": "project",
       "path": "../rentACar.Application/rentACar.Application.csproj",
@@ -5997,6 +6058,7 @@
       "Microsoft.EntityFrameworkCore >= 6.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.1",
       "Microsoft.Extensions.Configuration.Abstractions >= 6.0.0",
+      "Persistence >= 1.0.0",
       "rentACar.Application >= 1.0.0",
       "rentACar.Domain >= 1.0.0"
     ]
@@ -6033,6 +6095,9 @@
             },
             "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\rentACarKodlamaio\\rentACar.Domain\\rentACar.Domain.csproj": {
               "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\rentACarKodlamaio\\rentACar.Domain\\rentACar.Domain.csproj"
+            },
+            "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\demoProjects\\templateProject\\Persistence\\Persistence.csproj"
             }
           }
         }

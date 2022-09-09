@@ -1,5 +1,4 @@
-﻿
-using Core.Persistence.Repositories;
+﻿using Core.Persistence.Repositories;
 using rentACar.Domain.Entities;
 using System;
 using System.Collections.Generic;
@@ -7,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Entities
+namespace rentACar.Domain.Entities
 {
     public class Brand : Entity
     {

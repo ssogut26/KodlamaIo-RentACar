@@ -3,15 +3,16 @@ using Application.Services.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Persistence.Contexts;
-using Persistence.Repositories;
+using rentACar.Application.Services.Repositories;
+using rentACar.Persistence.Contexts;
+using rentACar.Persistence.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Persistence
+namespace rentACar.Persistence
 {
     public static class PersistenceServiceRegistration
     {
@@ -22,6 +23,7 @@ namespace Persistence
                                                      options.UseSqlServer(
                                                          configuration.GetConnectionString("RentACarCampConnectionString")));
             services.AddScoped<IBrandRepository, BrandRepository>();
+            services.AddScoped < IModelRepository, ModelRepository>();
 
             return services;
         }

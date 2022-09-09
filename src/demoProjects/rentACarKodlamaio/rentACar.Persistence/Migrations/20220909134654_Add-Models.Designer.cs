@@ -4,14 +4,14 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using Persistence.Contexts;
+using rentACar.Persistence.Contexts;
 
 #nullable disable
 
 namespace Persistence.Migrations
 {
     [DbContext(typeof(BaseDbContext))]
-    [Migration("20220908193012_Add-Models")]
+    [Migration("20220909134654_Add-Models")]
     partial class AddModels
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -23,7 +23,7 @@ namespace Persistence.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
 
-            modelBuilder.Entity("Domain.Entities.Brand", b =>
+            modelBuilder.Entity("rentACar.Domain.Entities.Brand", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -115,7 +115,7 @@ namespace Persistence.Migrations
 
             modelBuilder.Entity("rentACar.Domain.Entities.Model", b =>
                 {
-                    b.HasOne("Domain.Entities.Brand", "Brand")
+                    b.HasOne("rentACar.Domain.Entities.Brand", "Brand")
                         .WithMany("Models")
                         .HasForeignKey("BrandId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -124,7 +124,7 @@ namespace Persistence.Migrations
                     b.Navigation("Brand");
                 });
 
-            modelBuilder.Entity("Domain.Entities.Brand", b =>
+            modelBuilder.Entity("rentACar.Domain.Entities.Brand", b =>
                 {
                     b.Navigation("Models");
                 });

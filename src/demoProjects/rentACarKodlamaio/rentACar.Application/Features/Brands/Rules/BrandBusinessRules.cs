@@ -1,7 +1,7 @@
 ﻿using Application.Services.Repositories;
 using Core.CrossCuttingConcerns.Exceptions;
 using Core.Persistence.Paging;
-using Domain.Entities;
+using rentACar.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;

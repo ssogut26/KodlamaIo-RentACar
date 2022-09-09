@@ -11,6 +11,7 @@
           "Microsoft.EntityFrameworkCore": "6.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.1",
           "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
+          "Persistence": "1.0.0",
           "rentACar.Application": "1.0.0",
           "rentACar.Domain": "1.0.0"
         },
@@ -1213,6 +1214,17 @@
           "System.Xml.ReaderWriter": "4.0.11"
         }
       },
+      "Application/1.0.0": {
+        "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0",
+          "Core.Application": "1.0.0",
+          "Domain": "1.0.0",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "10.0.1"
+        },
+        "runtime": {
+          "Application.dll": {}
+        }
+      },
       "Core.Application/1.0.0": {
         "dependencies": {
           "Core.CrossCuttingConcers": "1.0.0",
@@ -1259,6 +1271,26 @@
         },
         "runtime": {
           "Core.Security.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "dependencies": {
+          "Core.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "Domain.dll": {}
+        }
+      },
+      "Persistence/1.0.0": {
+        "dependencies": {
+          "Application": "1.0.0",
+          "Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.1",
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0"
+        },
+        "runtime": {
+          "Persistence.dll": {}
         }
       },
       "rentACar.Application/1.0.0": {
@@ -2081,6 +2113,11 @@
       "path": "system.xml.xdocument/4.0.11",
       "hashPath": "system.xml.xdocument.4.0.11.nupkg.sha512"
     },
+    "Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Core.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -2097,6 +2134,16 @@
       "sha512": ""
     },
     "Core.Security/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Persistence/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
