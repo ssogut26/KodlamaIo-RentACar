@@ -1,5 +1,4 @@
-﻿using Application.Services.Repositories;
-using Core.Persistence.Repositories;
+﻿using Core.Persistence.Repositories;
 using rentACar.Application.Services.Repositories;
 using rentACar.Domain.Entities;
 using rentACar.Persistence.Contexts;

@@ -1,9 +1,9 @@
-﻿using Application.Services.Repositories;
-using AutoMapper;
+﻿using AutoMapper;
 using Core.Application.Requests;
 using Core.Persistence.Paging;
 using MediatR;
 using rentACar.Application.Features.Brands.Models;
+using rentACar.Application.Services.Repositories;
 using rentACar.Domain.Entities;
 using System;
 using System.Collections.Generic;

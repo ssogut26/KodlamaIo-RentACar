@@ -2,8 +2,7 @@ using Application;
 using Core.CrossCuttingConcerns.Exceptions;
 using Infrastructure;
 using Microsoft.EntityFrameworkCore;
-using Persistence;
-using Persistence.Contexts;
+using rentACar.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 

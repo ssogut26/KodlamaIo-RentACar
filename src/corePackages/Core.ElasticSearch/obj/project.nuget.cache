@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WIaYHrcZLPANDrsXhVeb2pagWsbXojbyClz8K7gnoV/WVS3WqzxzdOrEA6p5vVM+pdyKp7a5vhGjf0C5O+p5+Q==",
+  "dgSpecHash": "xrvHhB9r39djoi1Y7wiaoJYVfCv4YXfhaSWJLkL5MUL5UjmBNJwpdmg6NyJhXfd/6I3vLgcvFFLxJkw1WpqJrQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\RentACarKodlamaio\\kodlamaioRentACar\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
   "expectedPackageFiles": [

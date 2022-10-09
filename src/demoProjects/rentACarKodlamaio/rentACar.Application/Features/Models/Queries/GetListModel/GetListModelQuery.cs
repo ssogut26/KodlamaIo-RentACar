@@ -1,5 +1,4 @@
-﻿using Application.Services.Repositories;
-using AutoMapper;
+﻿using AutoMapper;
 using Core.Application.Requests;
 using Core.Persistence.Paging;
 using MediatR;
